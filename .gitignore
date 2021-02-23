@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/lesson1/CSVFiles/build/
+/lesson1/CSVFiles/out/
+/lesson1/CSVFiles/out/production/classes/
+/lesson1/JSONFiles/build/
+/lesson1/JSONFiles/out/
+/lesson1/JSONFiles/out/production/classes/
+/lesson1/REST_APIs/build/
+/lesson1/REST_APIs/out/
+/lesson1/REST_APIs/out/production/classes/
